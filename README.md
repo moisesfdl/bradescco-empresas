@@ -1,7 +1,7 @@
 # bradescco-empresas
 ne12.bradesconetempresa
 
-https://www.ne12.bradesconetempresa.b.br/
+url="www.ne12.bradesconetempresa.b.br/"
 
 eu gostaria de pedir
 
